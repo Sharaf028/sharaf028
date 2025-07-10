@@ -1,9 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sharaf Binte Younus! 👋
 
-<!--
-**Sharaf028/sharaf028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Undergraduate student passionate about tech
+- 🌐 Interested in **Web Development**
+- 🤖 Exploring **Artificial Intelligence** & **Machine Learning**
+- 🎨 Enjoying **Graphic Designing**
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/sharaf-binte-younus-433946295/)
 
-Here are some ideas to get you started:
+## Technologies & Tools
+- HTML, CSS, JavaScript
+- Python (beginner, for AI/ML)
+- Figma, Canva (for design)
+
+## 🌱 Currently Learning
+- AI & ML fundamentals
+- Responsive web design
+- Building creative UI projects
+
+## 🚀 Goals
+- Build a strong portfolio in web development, AI/ML, and design
+- Collaborate on open-source projects
+
+---
+
+Feel free to check out my repositories and reach out for collaboration!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
