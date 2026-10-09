@@ -9,7 +9,7 @@
 ## Technologies & Tools
 - HTML, CSS, JavaScript
 - Python (beginner, for AI/ML)
-- Figma, Canva (for design)
+- Figma, Canva, Adobe Illustrator, Adobe Photoshop (for design)
 
 ## 🌱 Currently Learning
 - AI & ML fundamentals
